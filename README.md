@@ -1,5 +1,6 @@
 # Goodread quote scaper
-How to use: type in the command line for windows
+How to use: type in the command line for windows:
+
  goodreads_quote_scraper.py -t 'bias' -p 3 -q
  
 "-t", "--tag", required=False, type=str, default=None, 
